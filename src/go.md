@@ -1,1 +1,0 @@
-Delete accidental go.md
